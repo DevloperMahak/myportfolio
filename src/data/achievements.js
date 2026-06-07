@@ -12,18 +12,18 @@ const achievements = [
     id: 2,
     title: "Flutter Developer Intern",
     organization: "Act T Connect",
-    year: "2025",
+    year: "2026",
     description:
       "Selected as Flutter Developer Intern and contributed to real-world application development projects.",
   },
 
   {
     id: 3,
-    title: "Flutter Developer Intern",
+    title: "Web Developer Intern",
     organization: "Frequer",
     year: "2025",
     description:
-      "Worked on Flutter-based mobile applications, UI implementation and feature development.",
+      "Worked on React-based web applications, UI implementation and feature development.",
   },
 
   {
