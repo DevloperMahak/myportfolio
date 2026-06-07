@@ -4,7 +4,7 @@ const certifications = [
     title: "Flutter Developer Internship",
     issuer: "Act T Connect",
     year: "2026",
-    credential: "#",
+    credential: "/certificates/flutter_internship.pdf",
   },
 
   {
@@ -20,7 +20,8 @@ const certifications = [
     title: "HACKHAZARDS '25 Participation",
     issuer: "HACKHAZARDS",
     year: "2025",
-    credential: "#",
+    credential:
+      "https://certificate.givemycertificate.com/c/f02eb861-826c-4726-8bd3-8ca39b624620",
   },
 
   {

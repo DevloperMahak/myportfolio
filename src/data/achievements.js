@@ -29,7 +29,7 @@ const achievements = [
   {
     id: 4,
     title: "TCH Lead Member",
-    organization: "Technical Community Hub",
+    organization: "The Coders Hub",
     year: "Present",
     description:
       "Leading and contributing to technical initiatives, events, mentoring and community growth activities.",
