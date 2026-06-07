@@ -1,6 +1,13 @@
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
-import { FaGithub, FaLinkedin, FaDownload, FaArrowRight } from "react-icons/fa";
+import {
+  FaGithub,
+  FaLinkedin,
+  FaDownload,
+  FaArrowRight,
+  FaEnvelope,
+  FaTelegram,
+} from "react-icons/fa";
 import profileImage from "../../assets/images/IMG.jpg";
 
 const Hero = () => {
@@ -216,6 +223,14 @@ const Hero = () => {
                 {
                   icon: <FaLinkedin />,
                   link: "https://www.linkedin.com/in/mahak-gupta-88835226a",
+                },
+                {
+                  icon: <FaEnvelope />,
+                  link: "https://mail.google.com/mail/?view=cm&fs=1&to=mahakguptaji2005@gmail.com&subject=Hello&body=Hi,%20I%20want%20to%20connect%20with%20you!",
+                },
+                {
+                  icon: <FaTelegram />,
+                  link: "https://web.telegram.org/k/",
                 },
               ].map((item, index) => (
                 <a

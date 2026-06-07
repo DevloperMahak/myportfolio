@@ -1,48 +1,58 @@
-const achievements = [
+const achievementsData = [
   {
     id: 1,
+    type: "Achievement",
     title: "3rd Position - Software App Exhibition",
     organization: "Bundelkhand University",
     year: "2024",
     description:
-      "Secured 3rd position by presenting ReuseBook, an innovative platform promoting book recycling and sustainability.",
+      "Secured 3rd position by presenting ReuseBook, a sustainable platform for old book exchange.",
+    credential: "/certificates/Software_App_Exhibition.jpeg",
   },
 
   {
     id: 2,
-    title: "Flutter Developer Intern",
+    type: "Certification",
+    title: "Flutter Developer Internship",
     organization: "Act T Connect",
     year: "2026",
     description:
-      "Selected as Flutter Developer Intern and contributed to real-world application development projects.",
+      "Completed Flutter internship focusing on cross-platform mobile application development.",
+    credential: "/certificates/flutter_internship.pdf",
   },
 
   {
     id: 3,
-    title: "Web Developer Intern",
+    type: "Certification",
+    title: "Web Developer Internship",
     organization: "Frequer",
     year: "2025",
     description:
-      "Worked on React-based web applications, UI implementation and feature development.",
+      "Worked on full-stack web applications using React, Node.js and MongoDB.",
+    credential: "/certificates/Application_for Web_Developer_Internship.pdf",
   },
 
   {
     id: 4,
-    title: "TCH Lead Member",
-    organization: "The Coders Hub",
-    year: "Present",
-    description:
-      "Leading and contributing to technical initiatives, events, mentoring and community growth activities.",
-  },
-
-  {
-    id: 5,
-    title: "HACKHAZARDS '25 Participant",
-    organization: "India's Largest Community Hackathon",
+    type: "Achievement",
+    title: "HACKHAZARDS '25",
+    organization: "HACKHAZARDS",
     year: "2025",
     description:
-      "Participated in a 210-hour national hackathon and built innovative software solutions.",
+      "Participated in India's largest community-driven online hackathon.",
+    credential:
+      "https://certificate.givemycertificate.com/c/f02eb861-826c-4726-8bd3-8ca39b624620",
+  },
+  {
+    id: 5,
+    type: "Achievement",
+    title: "GDG On Campus Bundelkhand University",
+    organization: "GDG(Google Developer Groups)",
+    year: "2024-2025",
+    description: "Contribute as a Core Team Member on Google Developer Groups.",
+    credential:
+      "https://gdg-on-campus-bu.web.app/certificate/GDG-ONCAMPUS-BU-2025-026",
   },
 ];
 
-export default achievements;
+export default achievementsData;
