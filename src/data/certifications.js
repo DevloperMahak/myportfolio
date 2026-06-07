@@ -36,7 +36,8 @@ const certifications = [
     title: "GDG On Campus Bundelkhand University",
     issuer: "GDG on campus Bundelkhand University",
     year: "2024-2025",
-    credential: "GDG-ONCAMPUS-BU-2025-026",
+    credential:
+      "https://gdg-on-campus-bu.web.app/certificate/GDG-ONCAMPUS-BU-2025-026",
   },
 ];
 
