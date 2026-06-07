@@ -51,7 +51,7 @@ const achievementsData = [
     year: "2024-2025",
     description: "Contribute as a Core Team Member on Google Developer Groups.",
     credential:
-      "https://gdg-on-campus-bu.web.app/certificate/GDG-ONCAMPUS-BU-2025-026",
+      "https://gdg-on-campus-bu.web.app/certificates/GDG-ONCAMPUS-BU-2025-026.pdf",
   },
 ];
 

@@ -1,6 +1,11 @@
 import { motion } from "framer-motion";
 
-import { FaGithub, FaCode, FaExternalLinkAlt } from "react-icons/fa";
+import {
+  FaGithub,
+  FaCode,
+  FaExternalLinkAlt,
+  FaLaptopCode,
+} from "react-icons/fa";
 
 import {
   SiLeetcode,
@@ -17,6 +22,7 @@ const icons = {
   CodeChef: <SiCodechef />,
   HackerRank: <SiHackerrank />,
   GitHub: <FaGithub />,
+  Codolio: <FaLaptopCode />,
 };
 
 const CodingProfiles = () => {

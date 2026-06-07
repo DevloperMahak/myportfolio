@@ -6,7 +6,7 @@ import {
   FaCertificate,
 } from "react-icons/fa";
 
-import achievementsData from "../../data/achievementsData";
+import achievementsData from "../../data/achievements";
 
 const AchievementsAndCertifications = () => {
   return (

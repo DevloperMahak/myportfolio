@@ -6,10 +6,10 @@ import Services from "../components/Services/Services";
 import Projects from "../components/Projects/Projects";
 import Experience from "../components/Experience/Experience";
 import Education from "../components/Education/Education";
-import Certifications from "../components/Certifications/Certifications";
-import Achievements from "../components/Achievements/Achievements";
 import Contact from "../components/Contact/Contact";
 import Footer from "../components/Footer/Footer";
+import AchievementsAndCertifications from "../components/AchievementsAndCertifications/AchievementsAndCertifications";
+import CodingProfiles from "../components/Codingprofile/CodingProfiles";
 
 const HomePage = () => {
   return (
@@ -63,8 +63,8 @@ const HomePage = () => {
       <Projects />
       <Experience />
       <Education />
-      <Certifications />
-      <Achievements />
+      <AchievementsAndCertifications />
+      <CodingProfiles />
       <Contact />
       <Footer />
     </div>
