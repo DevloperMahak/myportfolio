@@ -3,13 +3,13 @@ const certifications = [
     id: 1,
     title: "Flutter Developer Internship",
     issuer: "Act T Connect",
-    year: "2025",
+    year: "2026",
     credential: "#",
   },
 
   {
     id: 2,
-    title: "Flutter Developer Internship",
+    title: "Web Developer Internship",
     issuer: "Frequer",
     year: "2025",
     credential: "#",
