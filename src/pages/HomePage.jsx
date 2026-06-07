@@ -9,7 +9,7 @@ import Education from "../components/Education/Education";
 import Contact from "../components/Contact/Contact";
 import Footer from "../components/Footer/Footer";
 import AchievementsAndCertifications from "../components/AchievementsAndCertifications/AchievementsAndCertifications";
-import CodingProfiles from "../components/Codingprofile/CodingProfiles";
+import CodingProfiles from "../components/CodingProfile/CodingProfiles";
 
 const HomePage = () => {
   return (
