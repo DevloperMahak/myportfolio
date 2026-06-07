@@ -12,7 +12,7 @@ const certifications = [
     title: "Web Developer Internship",
     issuer: "Frequer",
     year: "2025",
-    credential: "#",
+    credential: "/certificates/Application_for Web_Developer_Internship.pdf",
   },
 
   {
@@ -29,7 +29,14 @@ const certifications = [
     title: "Software App Exhibition - 3rd Position",
     issuer: "Bundelkhand University",
     year: "2024",
-    credential: "#",
+    credential: "/certificates/Software_App_Exhibition.jpeg",
+  },
+  {
+    id: 5,
+    title: "GDG On Campus Bundelkhand University",
+    issuer: "GDG on campus Bundelkhand University",
+    year: "2024-2025",
+    credential: "GDG-ONCAMPUS-BU-2025-026",
   },
 ];
 

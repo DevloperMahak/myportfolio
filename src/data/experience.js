@@ -11,12 +11,12 @@ const experience = [
 
   {
     id: 2,
-    role: "Flutter Developer Intern",
+    role: "Web Developer Intern",
     company: "Frequer",
     duration: "June 2025 - August 2025",
 
     description:
-      "Contributed to Flutter application development, implemented responsive UI screens, improved user experience, and collaborated with team members on real-world projects.",
+      "Contributed to Web development, implemented responsive UI screens, improved user experience, and collaborated with team members on real-world projects.",
   },
 
   {
