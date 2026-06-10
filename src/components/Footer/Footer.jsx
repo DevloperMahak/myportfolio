@@ -171,7 +171,7 @@ const Footer = () => {
                 },
                 {
                   icon: <FaInstagram />,
-                  link: "#",
+                  link: "https://www.instagram.com/onfire_mahak/",
                 },
               ].map((item, index) => (
                 <a

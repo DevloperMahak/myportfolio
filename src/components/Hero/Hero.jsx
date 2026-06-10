@@ -170,7 +170,8 @@ const Hero = () => {
               mt-10
             "
             >
-              <button
+              <a
+                href="#projects"
                 className="
                 group
                 px-7
@@ -191,7 +192,7 @@ const Hero = () => {
               >
                 View Projects
                 <FaArrowRight className="group-hover:translate-x-1 transition-transform" />
-              </button>
+              </a>
 
               <a
                 href="/resume/Resume.pdf"

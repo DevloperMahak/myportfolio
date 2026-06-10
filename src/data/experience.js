@@ -22,7 +22,7 @@ const experience = [
   {
     id: 3,
     role: "TCH Lead Member",
-    company: "Technical Community Hub (TCH)",
+    company: "The Coders Hub(TCH)",
     duration: "2024 - Present",
 
     description:
@@ -31,6 +31,16 @@ const experience = [
 
   {
     id: 4,
+    role: "AI Application Developer",
+    company: "AskMyTutor",
+    duration: "2025",
+
+    description:
+      "Built an AI-powered tutoring platform integrating OCR, voice input, intelligent response generation, and modern AI technologies for student learning.",
+  },
+
+  {
+    id: 5,
     role: "Full Stack Developer",
     company: "ReuseBook",
     duration: "2024 - Present",
@@ -39,25 +49,15 @@ const experience = [
       "Developed a complete marketplace platform for students and shopkeepers using Flutter, Node.js, Express.js, and MongoDB, focusing on sustainability through book recycling.",
   },
 
-  {
-    id: 5,
-    role: "Hackathon Participant",
-    company: "HACKHAZARDS '25",
-    duration: "April 2025",
+  // {
+  //   id: 5,
+  //   role: "Hackathon Participant",
+  //   company: "HACKHAZARDS '25",
+  //   duration: "April 2025",
 
-    description:
-      "Participated in India's largest community-run online hackathon and developed innovative solutions under strict deadlines while collaborating in a competitive environment.",
-  },
-
-  {
-    id: 6,
-    role: "AI Application Developer",
-    company: "AskMyTutor",
-    duration: "2025",
-
-    description:
-      "Built an AI-powered tutoring platform integrating OCR, voice input, intelligent response generation, and modern AI technologies for student learning.",
-  },
+  //   description:
+  //     "Participated in India's largest community-run online hackathon and developed innovative solutions under strict deadlines while collaborating in a competitive environment.",
+  // },
 ];
 
 export default experience;

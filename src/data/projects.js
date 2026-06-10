@@ -1,6 +1,6 @@
 import reusebook from "../assets/images/Reusebook_logo.png";
 import askmytutor from "../assets/images/Askmytutor.png";
-import fuelease from "../assets/images/DAWS_logo_design.png";
+import DAWS from "../assets/images/DAWS_logo_design.png";
 
 const projects = [
   {
@@ -40,12 +40,12 @@ const projects = [
 
     title: "DAWS (Developer AI Workspace System)",
 
-    image: fuelease,
+    image: DAWS,
 
     description:
-      "Unified platform for software development teams that integrates multiple tools into a single dashboard.It is a one Central Workspace for All Stages of App/Web Development",
+      "DAWS is a LangGraph + LangChain powered Multi-Agent AI SDLC Automation System with external AI integrations (Groq, OpenAI, Gemini)",
 
-    technologies: ["Flutter", "Node.js", "MongoDB"],
+    technologies: ["React js", "Node.js", "MySQL", "LangGraph", "LangChain"],
 
     github: "https://github.com/DevloperMahak/DAWS",
 

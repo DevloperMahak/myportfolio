@@ -3,8 +3,7 @@ const education = [
     id: 1,
     level: "Bachelor of Technology (B.Tech)",
     field: "Computer Science & Engineering",
-    institution:
-      "Bundelkhand Institute of Engineering & Technology (BIET), Jhansi",
+    institution: "Bundelkhand University, Jhansi",
     duration: "2023 - 2027",
     score: "Pursuing",
     description:

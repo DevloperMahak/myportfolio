@@ -484,7 +484,7 @@ py-3 sm:py-4
       duration-300
     "
               >
-                Send Message 🚀
+                Send Message
               </button>
             </div>
           </motion.form>
