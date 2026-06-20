@@ -53,6 +53,27 @@ const achievementsData = [
     credential:
       "https://gdg-on-campus-bu.web.app/certificates/GDG-ONCAMPUS-BU-2025-026.pdf",
   },
+  {
+    id: 6,
+    type: "Certification",
+    title: "Credly Verified Certifications",
+    organization: "Credly",
+    year: "2026",
+    description:
+      "Verified industry certifications showcasing professional skills and achievements.",
+    credential: "https://www.credly.com/users/mahak-gupta.ec18724b",
+  },
+  {
+    id: 7,
+    type: "Certification",
+    title: "Google Cloud Skills Boost Profile",
+    organization: "Google Cloud",
+    year: "2026",
+    description:
+      "Google Cloud Skills Boost learning profile with hands-on cloud and development labs.",
+    credential:
+      "https://www.cloudskillsboost.google/public_profiles/893f0144-20e5-4bc9-83da-bfc8b3a768ae",
+  },
 ];
 
 export default achievementsData;
