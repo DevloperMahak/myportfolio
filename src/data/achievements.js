@@ -13,14 +13,13 @@ const achievementsData = [
   {
     id: 2,
     type: "Certification",
-    title: "Flutter Developer Internship",
-    organization: "Act T Connect",
-    year: "2026",
+    title: "IoT Training Workshop",
+    organization: "DST-BUTEC",
+    year: "2024",
     description:
-      "Completed Flutter internship focusing on cross-platform mobile application development.",
-    credential: "/certificates/flutter_internship.pdf",
+      "Completed an IoT training workshop covering fundamental concepts and practical applications of Internet of Things technologies.",
+    credential: "/certificates/IoT_Certificates.pdf",
   },
-
   {
     id: 3,
     type: "Certification",
@@ -31,9 +30,29 @@ const achievementsData = [
       "Worked on full-stack web applications using React, Node.js and MongoDB.",
     credential: "/certificates/Application_for Web_Developer_Internship.pdf",
   },
-
   {
     id: 4,
+    type: "Achievement",
+    title: "Resource Person - TechRise",
+    organization: "TechRise",
+    year: "2026",
+    description:
+      "Served as a Resource Person at TechRise, contributing to the event through knowledge sharing and technical guidance.",
+    credential: "/certificates/TechRise_Resource_Person.pdf",
+  },
+  {
+    id: 5,
+    type: "Certification",
+    title: "Flutter Developer Internship",
+    organization: "Act T Connect",
+    year: "2026",
+    description:
+      "Completed Flutter internship focusing on cross-platform mobile application development.",
+    credential: "/certificates/flutter_internship.pdf",
+  },
+
+  {
+    id: 6,
     type: "Achievement",
     title: "HACKHAZARDS '25",
     organization: "HACKHAZARDS",
@@ -44,7 +63,7 @@ const achievementsData = [
       "https://certificate.givemycertificate.com/c/f02eb861-826c-4726-8bd3-8ca39b624620",
   },
   {
-    id: 5,
+    id: 7,
     type: "Achievement",
     title: "GDG On Campus Bundelkhand University",
     organization: "GDG(Google Developer Groups)",
@@ -54,7 +73,7 @@ const achievementsData = [
       "https://gdg-on-campus-bu.web.app/certificates/GDG-ONCAMPUS-BU-2025-026.pdf",
   },
   {
-    id: 6,
+    id: 8,
     type: "Certification",
     title: "Credly Verified Certifications",
     organization: "Credly",
@@ -64,7 +83,7 @@ const achievementsData = [
     credential: "https://www.credly.com/users/mahak-gupta.ec18724b",
   },
   {
-    id: 7,
+    id: 9,
     type: "Certification",
     title: "Google Cloud Skills Boost Profile",
     organization: "Google Cloud",
