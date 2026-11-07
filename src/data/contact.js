@@ -1,6 +1,6 @@
 const contactInfo = {
   email: "mahakguptaji2005@gmail.com",
-  phone: "+91 7860868701",
+  phone: "+91 9196132852",
   location: "Jhansi, Uttar Pradesh, India",
 
   github: "https://github.com/DevloperMahak",
