@@ -91,16 +91,12 @@ An AI-powered study companion concept focused on personalized learning, AI tutor
   />
 </p>
 
+## 🏆 GitHub Achievements
+
 <p align="center">
   <a href="https://github.com/Devlopermahak?tab=achievements">
     🏅 View Official GitHub Achievements
   </a>
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devlopermahak&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -109,7 +105,7 @@ An AI-powered study companion concept focused on personalized learning, AI tutor
 
 - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mahak-gupta-88835226a/)
 - 💻 GitHub: [My GitHub Profile](https://github.com/Devlopermahak)
-- 📧 Email: Add your professional email
+- 📧 Email: mahakguptaji2005@gmail.com
 
 ---
 
