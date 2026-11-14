@@ -5,6 +5,7 @@ const contactInfo = {
 
   github: "https://github.com/DevloperMahak",
   linkedin: "https://linkedin.com/in/mahak-gupta-88835226a",
+  instagram: "https://www.instagram.com/onfire_mahak",
 };
 
 export default contactInfo;
